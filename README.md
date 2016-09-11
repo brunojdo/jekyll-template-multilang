@@ -5,11 +5,13 @@ Personal site based on [http://aboutashu.com/hcz-jekyll-blog](http://aboutashu.c
 
 ## Usage
 
-Install bundler and jekyll gem and install the template gems with the followed commands: 
+Install bundler and jekyll gem with the followed commands: 
 
 ```gem install bundler```
 
 ```gem install jekyll```
+
+Download this repository and into the project folder, execute the followed command to install the template gems 
 
 ```bundle install```
 
