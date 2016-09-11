@@ -1,0 +1,29 @@
+title: Template Multilang
+description:
+  en: My Personal Blog
+  pt: Meu Blog
+author: Mussum Ipsum
+logo: # gravatar pic https://s.gravatar.com/avatar/192121289?s=80
+about:
+  en: Software Engineer
+  pt: Engenheiro de Software
+index:
+  en:
+  pt: indice.html
+baseurl: ""
+url: "https://sample.github.io"
+
+disqus_shortname: # disqus channel
+google_analytics:
+share:
+  twitter_username:
+  fb_appid: 000000000000
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Template Multilang</title>
+    <description>{&quot;en&quot;=&gt;&quot;My Personal Blog&quot;, &quot;pt&quot;=&gt;&quot;Meu Blog&quot;}</description>
+    <link>https://sample.github.io/</link>
+    <atom:link href="https://sample.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 11 Sep 2016 14:04:20 -0300</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2016 14:04:20 -0300</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Postagem em português</title>
+        <description>&lt;h3 id=&quot;tutorial-simples-de-como-usar-o-template&quot;&gt;Tutorial simples de como usar o template&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Mussum Ipsum, cacilds vidis litro abertis. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Delegadis gente finis, bibendum egestas augue arcu ut est. Quem num gosti di mum que vai caçá sua turmis! Si num tem leite então bota uma pinga aí cumpadi!&lt;/p&gt;
+
+&lt;p&gt;in elementis mé pra quem é amistosis quis leo. Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Pra lá , depois divoltis porris, paradis. Detraxit consequat et quo num tendi nada.&lt;/p&gt;
+
+&lt;p&gt;Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose. Suco de cevadiss deixa as pessoas mais interessantiss. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Vehicula non. Ut sed ex eros. Vivamus sit amet nibh non tellus tristique interdum.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Feb 2016 00:00:00 -0300</pubDate>
+        <link>https://sample.github.io/foo/2016/02/01/pt-bar.html</link>
+        <guid isPermaLink="true">https://sample.github.io/foo/2016/02/01/pt-bar.html</guid>
+        
+        
+        <category>foo</category>
+        
+      </item>
+    
+      <item>
+        <title>Post in English</title>
+        <description>&lt;h3 id=&quot;simple-tutorial-that-explain-how-to-use-this-template&quot;&gt;Simple tutorial that explain how to use this template&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Bacon ipsum dolor amet andouille salami cow tri-tip swine doner kielbasa ground round brisket beef ribs flank. Filet mignon bresaola ball tip, tri-tip cow short loin tongue rump hamburger. Filet mignon cupim t-bone shank biltong, short ribs short loin jerky picanha pork belly shankle tri-tip tongue chicken. Pastrami turkey doner filet mignon andouille shank kevin salami jowl turducken. Beef turducken pork belly brisket shoulder andouille sirloin pancetta t-bone ground round flank picanha bacon.&lt;/p&gt;
+
+&lt;p&gt;Pancetta beef frankfurter, bacon andouille pastrami cupim pork belly alcatra. Meatball capicola meatloaf beef ribs, shoulder tongue pastrami pork belly doner. Turducken shankle jowl, salami pork belly brisket chuck pork drumstick capicola. Venison picanha turducken, tenderloin ribeye chicken bresaola hamburger pork loin jowl sirloin doner drumstick bacon brisket.&lt;/p&gt;
+
+&lt;p&gt;Pork beef ribs doner meatball. Hamburger meatloaf landjaeger corned beef ham. Jerky frankfurter meatloaf rump tail kielbasa drumstick tri-tip hamburger turkey flank ham hock cow. Beef pastrami frankfurter, corned beef bresaola filet mignon jerky landjaeger. Beef tenderloin sirloin venison pork loin kevin porchetta boudin turducken andouille capicola ribeye alcatra picanha. Meatloaf flank shankle tenderloin, turkey kevin meatball tongue. Rump bacon filet mignon venison salami capicola spare ribs ham hock t-bone.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Feb 2016 00:00:00 -0300</pubDate>
+        <link>https://sample.github.io/foo/2016/02/01/en-bar.html</link>
+        <guid isPermaLink="true">https://sample.github.io/foo/2016/02/01/en-bar.html</guid>
+        
+        
+        <category>foo</category>
+        
+      </item>
+    
+  </channel>
+</rss>
